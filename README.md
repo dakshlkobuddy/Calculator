@@ -192,8 +192,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by Daksh Agarwal
 
 ---
 
-**Note**: Replace `your-username` with your actual GitHub username throughout this README.
+**Note**: Replace `dakshlkobuddy` with your actual GitHub username throughout this README.
